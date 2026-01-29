@@ -1,0 +1,52 @@
+{
+  "personal": {
+    "name": "Roberta de Souza",
+    "email": "roberta-94@hotmail.com",
+    "phone": "11940372426",
+    "consultancyTipe": "Individual",
+    "personType": "cpf",
+    "document": "67857518026",
+    "discoveryChannels": [
+      "Instagram",
+      "LinkedIn",
+      "Udemy",
+      "YouTube",
+      "Indicação de Amigo"
+    ],
+    "file": "./cypress/fixtures/dl.pdf",
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesqueceptos himenaeos.",
+    "techs": [
+      "Cypress",
+      "Selenium",
+      "WebDriverIO",
+      "Playwright",
+      "Robot Framework"
+    ],
+    "terms": true
+  },
+  "company": {
+    "name": "Roberta de Souza",
+    "email": "roberta-94@hotmail.com",
+    "phone": "11940372426",
+    "consultancyTipe": "In Company",
+    "personType": "cnpj",
+    "document": "89004174000136",
+    "discoveryChannels": [
+      "Instagram",
+      "LinkedIn",
+      "Udemy",
+      "YouTube",
+      "Indicação de Amigo"
+    ],
+    "file": "./cypress/fixtures/dl.pdf",
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesqueceptos himenaeos.",
+    "techs": [
+      "Cypress",
+      "Selenium",
+      "WebDriverIO",
+      "Playwright",
+      "Robot Framework"
+    ],
+    "terms": true
+  }
+}
